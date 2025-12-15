@@ -1,0 +1,22 @@
+{
+  "home": {
+    "heroTitle": "The Leading Freelance Platform in the Middle East",
+    "heroDesc": "Find the best freelancers or projects easily and securely.",
+    "searchFreelancer": "Search Freelancers",
+    "postProject": "Post a Project",
+    "howItWorksTitle": "How It Works?",
+    "step1Title": "Create your account",
+    "step1Desc": "Sign up as a freelancer or client",
+    "step2Title": "Search or Post",
+    "step2Desc": "Find the right projects or freelancers",
+    "step3Title": "Start Working",
+    "step3Desc": "Communicate and pay safely",
+    "categoriesTitle": "Browse by Category",
+    "featuresTitle": "Why Ureed?",
+    "pricingTitle": "Plans for Everyone",
+    "ctaTitle": "Ready to start your freelance journey?",
+    "ctaDesc": "Join thousands of freelancers and clients today",
+    "choosePlan": "Choose Plan",
+    "mostPopular": "Most Popular"
+  }
+}
